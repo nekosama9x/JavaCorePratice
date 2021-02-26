@@ -1,0 +1,13 @@
+101 - Nguyen van A - 012152
+101 - Nguyen van B - 013113
+101 - Nguyen van C - 012141
+101 - nguyen thi D - 012142
+102 - Khuong van A - 012143
+102 - Khuong van B - 012148
+102 - Khuong van C - 012521
+103 - Phan van A - 012632
+103 - Phan van B - 012752
+103 - Phan van C - 012952
+104 - Ngo thi A - 012124
+104 - Ngo thi C - 012454
+104 - Ngo van B - 012887
