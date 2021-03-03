@@ -2,4 +2,3 @@
 102 - Web Java
 103 - Ethics
 104 - DB
-105 - I2CS
