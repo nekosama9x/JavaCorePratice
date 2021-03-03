@@ -1,7 +1,6 @@
-package com.company.DTO;
+package com.company.dto;
 
 import java.util.HashSet;
-import java.util.List;
 import java.util.Objects;
 
 public class Teacher extends Person{
