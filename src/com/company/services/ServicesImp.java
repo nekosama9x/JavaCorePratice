@@ -192,7 +192,7 @@ public class ServicesImp implements Service {
     public void insertClassRoom(String path) {
         // IO write
         HashMap<Integer, String> list = new HashMap<>();
-        list.put(105, "I2CS");
+        list.put(106, "C++");
         FileOutputStream fos = null;
         OutputStreamWriter writer = null;
         BufferedWriter bw = null;
